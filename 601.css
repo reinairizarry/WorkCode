@@ -1,0 +1,12 @@
+.title{
+  color:#666666;
+  font-size: 13px;
+  font-family: 'Lato', Helvetica, Arial, sans-serif ;
+}
+.purpleRequired{
+  color: #491970;
+  font-size: 15px;
+}
+.form-group{
+  border-radius: 50%;
+}
