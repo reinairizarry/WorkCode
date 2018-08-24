@@ -1,0 +1,260 @@
+html,body{
+  margin:2%;
+}
+
+.sixohoneform{
+  color:#707070;
+  text-align: center;
+  margin-top:50px;
+}
+
+.wav-border-between > [class*='col-']:first-child:before {
+   display: none;
+}
+
+.technicalContact{
+  color: #551A8B;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.tdisclaimer{
+  font-size: 15px;
+}
+
+
+.siteinfo{
+  color:yellow;
+  font-size: 20px;
+  padding-top: 25px;
+  padding-left: 15em;
+  text-align: center;
+}
+
+.siteinfoparagraph{
+  font-size: 20px;
+  color: black;
+
+}
+
+.wav-h4 {
+  color: #491A6A;
+}
+
+.technicalContact{
+  color: #551A8B;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.tdisclaimer{
+  font-size: 15px;
+}
+.wav-purple {
+  color: #551A8B;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.siteinfo{
+  color:#551A8B;
+  font-size: 20px;
+  padding-top: 25px;
+  padding-left: 15em;
+  text-align: center;
+}
+
+.siteinfoparagraph{
+  font-size: 20px;
+  color: black;
+
+}
+
+.greyRectangle{
+  margin-left: 175px;
+  border-radius: 15px;
+  background-color: #D0D0D0;
+  width: 1000px;
+  height: 1500px;
+}
+
+.siteNames{
+  margin-top: 10px;
+  color:#551A8B;
+  margin-left: 150px;
+  font-size: 25px;
+  font-weight: bold;
+}
+.container-fluid{
+  background-color:#6A5ACD;
+  color:yellow;
+  margin-top:40px;
+}
+
+
+
+.card-footer text-muted{
+  margin-left: 175px;
+  border-radius: 15px;
+  background-color: #D0D0D0;
+  width: 1000px;
+  height: 1500px;
+}
+
+.siteNames{
+  margin-top: 10px;
+  color:#551A8B;
+  margin-left: 150px;
+  font-size: 25px;
+  font-weight: bold;
+}
+.container-fluid{
+  background-color:#491A6A;
+  color:white;
+
+}
+
+#p{
+  background-color:#F5F5F5  ;
+  width:95%;html,body{
+    margin:2%;
+  }
+
+  .sixohoneform{
+    color:#707070;
+    text-align: center;
+    margin-top:50px;
+  }
+
+  .wav-border-between > [class*='col-']:first-child:before {
+     display: none;
+  }
+
+  .technicalContact{
+    color: #551A8B;
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .tdisclaimer{
+    font-size: 15px;
+  }
+
+
+  .siteinfo{
+    color:yellow;
+    font-size: 20px;
+    padding-top: 25px;
+    padding-left: 15em;
+    text-align: center;
+  }
+
+  .siteinfoparagraph{
+    font-size: 20px;
+    color: black;
+
+  }
+
+  .wav-h4 {
+    color: #491A6A;
+  }
+
+  .technicalContact{
+    color: #551A8B;
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .tdisclaimer{
+    font-size: 15px;
+  }
+  .wav-purple {
+    color: #551A8B;
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .siteinfo{
+    color:#551A8B;
+    font-size: 20px;
+    padding-top: 25px;
+    padding-left: 15em;
+    text-align: center;
+  }
+
+  .siteinfoparagraph{
+    font-size: 20px;
+    color: black;
+
+  }
+
+  .greyRectangle{
+    margin-left: 175px;
+    border-radius: 15px;
+    background-color: #D0D0D0;
+    width: 1000px;
+    height: 1500px;
+  }
+
+  .siteNames{
+    margin-top: 10px;
+    color:#551A8B;
+    margin-left: 150px;
+    font-size: 25px;
+    font-weight: bold;
+  }
+  .container-fluid{
+    background-color:#6A5ACD;
+    color:yellow;
+    margin-top:40px;
+  }
+
+
+
+  .card-footer text-muted{
+    margin-left: 175px;
+    border-radius: 15px;
+    background-color: #D0D0D0;
+    width: 1000px;
+    height: 1500px;
+  }
+
+  .siteNames{
+    margin-top: 10px;
+    color:#551A8B;
+    margin-left: 150px;
+    font-size: 25px;
+    font-weight: bold;
+  }
+  .container-fluid{
+    background-color:#491A6A;
+    color:white;
+
+  }
+
+  #p{
+    background-color:#F5F5F5  ;
+    width:95%;
+  }
+
+  .container{
+     width: 100%;
+  }
+
+  hr{
+    background-color:white;
+    display: block;
+    height: 1px;
+    border-top: 0px solid white;
+  }
+
+.container{
+   width: 100%;
+}
+
+hr{
+  background-color:white;
+  display: block;
+  height: 1px;
+  border-top: 0px solid white;
+}
